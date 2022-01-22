@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Main-Class: com.iban.validator.ValidatorApplication
+Class-Path: spring-orm-5.3.6.jar maven-repository-metadata-3.3.9.jar jax
+ b-api-2.3.1.jar spring-boot-starter-2.5.8.jar jandex-2.2.3.Final.jar pl
+ exus-sec-dispatcher-1.3.jar spring-boot-2.5.8.jar spring-beans-5.3.6.ja
+ r plexus-cipher-1.4.jar aether-spi-1.0.2.v20150114.jar spring-expressio
+ n-5.3.6.jar jakarta.persistence-api-2.2.3.jar guava-18.0.jar jakarta.tr
+ ansaction-api-1.3.3.jar jakarta.annotation-api-1.3.5.jar spring-boot-st
+ arter-data-jpa-2.5.8.jar snakeyaml-1.28.jar txw2-2.3.5.jar aether-api-1
+ .0.2.v20150114.jar javassist-3.27.0-GA.jar jaxb-runtime-2.3.5.jar jacks
+ on-annotations-2.11.4.jar spring-boot-starter-logging-2.5.8.jar maven-a
+ rtifact-3.3.9.jar aether-util-1.0.2.v20150114.jar guice-4.0-no_aop.jar 
+ HikariCP-4.0.3.jar spring-web-5.3.6.jar aspectjweaver-1.9.7.jar spring-
+ boot-starter-web-2.5.8.jar plexus-component-annotations-1.6.jar cdi-api
+ -1.0.jar spring-boot-starter-validation-2.5.6.jar maven-builder-support
+ -3.3.9.jar org.eclipse.sisu.inject-0.3.2.jar log4j-api-2.13.3.jar slf4j
+ -api-1.7.32.jar mapstruct-1.4.2.Final.jar spring-context-5.3.6.jar log4
+ j-to-slf4j-2.13.3.jar jakarta.xml.bind-api-2.3.3.jar h2-1.4.200.jar jul
+ -to-slf4j-1.7.32.jar maven-core-3.3.9.jar spring-tx-5.3.6.jar spring-bo
+ ot-starter-aop-2.5.8.jar commons-beanutils-1.9.4.jar jackson-module-par
+ ameter-names-2.11.4.jar commons-text-1.9.jar maven-aether-provider-3.3.
+ 9.jar byte-buddy-1.10.22.jar hibernate-core-5.4.33.jar hibernate-valida
+ tor-6.2.0.Final.jar commons-collections-3.2.2.jar org.eclipse.sisu.plex
+ us-0.3.2.jar maven-plugin-api-3.3.9.jar commons-lang3-3.12.0.jar logbac
+ k-core-1.2.9.jar aether-impl-1.0.2.v20150114.jar aopalliance-1.0.jar do
+ m4j-2.1.3.jar liquibase-core-4.6.1.jar tomcat-embed-websocket-9.0.56.ja
+ r spring-core-5.3.6.jar spring-aop-5.3.6.jar jakarta.validation-api-2.0
+ .2.jar plexus-utils-3.0.22.jar maven-model-builder-3.3.9.jar jackson-da
+ tatype-jsr310-2.11.4.jar spring-webmvc-5.3.6.jar spring-boot-starter-to
+ mcat-2.5.8.jar logback-classic-1.2.9.jar istack-commons-runtime-3.0.12.
+ jar opencsv-5.5.1.jar spring-boot-starter-json-2.5.8.jar plexus-interpo
+ lation-1.21.jar commons-collections4-4.4.jar spring-boot-starter-jdbc-2
+ .5.8.jar maven-model-3.3.9.jar maven-settings-3.3.9.jar jsr250-api-1.0.
+ jar antlr-2.7.7.jar jackson-core-2.11.4.jar jackson-datatype-jdk8-2.11.
+ 4.jar javax.activation-api-1.2.0.jar spring-aspects-5.3.6.jar spring-da
+ ta-commons-2.4.8.jar spring-jdbc-5.3.6.jar tomcat-embed-el-9.0.56.jar s
+ pring-jcl-5.3.6.jar maven-settings-builder-3.3.9.jar classmate-1.5.1.ja
+ r javax.inject-1.jar plexus-classworlds-2.5.2.jar jackson-databind-2.11
+ .4.jar spring-data-jpa-2.4.8.jar lombok-1.18.22.jar tomcat-embed-core-9
+ .0.44.jar spring-boot-autoconfigure-2.5.8.jar jboss-logging-3.4.2.Final
+ .jar maven-compat-3.3.9.jar liquibase-maven-plugin-4.6.1.jar jakarta.ac
+ tivation-api-1.2.2.jar jakarta.activation-1.2.2.jar hibernate-commons-a
+ nnotations-5.1.2.Final.jar wagon-provider-api-2.10.jar commons-logging-
+ 1.2.jar
+

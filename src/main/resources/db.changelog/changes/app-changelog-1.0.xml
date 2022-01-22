@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+      http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.1.xsd">
+    <changeSet author="Soumen Banerjee" id="1">
+        <createTable tableName="iban">
+            <column name="id" type="BIGSERIAL">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="iban_id_pkey"/>
+            </column>
+            <column name="iban" type="VARCHAR(50)">
+                <constraints unique="true" />
+            </column>
+            <column name="status" type="VARCHAR(10)"/>
+        </createTable>
+    </changeSet>
+</databaseChangeLog>
