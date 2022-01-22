@@ -57,7 +57,7 @@ public class IBANService {
             throw new RuntimeException("Looks like one or more IBAN already in the system, please check the file again.");
         }
         outStream.close();
-        temporaryFile.delete();
+        new File("tmpCsvFile.csv").delete();
     }
 
     /**
